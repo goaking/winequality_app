@@ -1,4 +1,4 @@
-pycaret.classification
+pycaret
 streamlit
 pandas
 numpy
