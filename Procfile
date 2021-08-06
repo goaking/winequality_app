@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run WineQuality_APP.py
